@@ -1,4 +1,4 @@
-# UnityEditor-Screenshot
+# unityeditor-screenshot
 Right click in the editor to take a screenshot of your game while playing!
 
 ## Usage
